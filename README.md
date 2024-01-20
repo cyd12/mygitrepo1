@@ -1,2 +1,3 @@
 # mygitrepo1
-my first demo repo
+my first demo repository
+i am at the main branch
